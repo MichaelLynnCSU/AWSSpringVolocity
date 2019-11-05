@@ -1,12 +1,10 @@
-# Create Volocity App
-
-https://github.com/MichaelLynnCSU/HerokuSpringVolocity
-
 # AWSSparkVolocity
 
 AWS Elastic Beanstalk
 
-https://www.youtube.com/watch?v=KEH0-rHHNxM
+https://developer.okta.com/blog/2019/08/07/deploy-a-spring-boot-app-with-aws-elastic-beanstalk
 
-http://springbootfullstackreact-env.v83b3zpnxv.us-west-2.elasticbeanstalk.com/hello
+https://pragmaticintegrator.wordpress.com/2016/07/12/run-your-spring-boot-application-on-aws-using-elastic-beanstalk/
+
+http://helloworld-env.xpneviim4d.us-west-2.elasticbeanstalk.com/
 
